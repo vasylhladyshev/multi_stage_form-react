@@ -8,4 +8,4 @@ Description
 
 Multi-step React registration form for game website.
 
-[demo link](https://vasylhladyshev.github.io/multi-step-form_reactApp/)
+[demo link](https://vasylhladyshev.github.io/multi-step-form_react/)
