@@ -32,8 +32,8 @@ const AddOns = ({onChange, termChoosed, firstCheckMain, secondCheckMain, thirdCh
       <p className="description">
         Add-ons help enhance your gaming experience.
       </p>
-      <div className={`extencion ${firstCheckMain ? 'added' : ''}`}>
-        <input className="extencion-checkbox" type="checkbox" onChange={handleChangeAcces} checked={firstCheck}></input>
+      <div className={`extencion ${firstCheckMain ? 'added' : ''}`} onClick={handleChangeAcces} >
+        <input className="extencion-checkbox" type="checkbox" checked={firstCheck}></input>
         <div className="extencion-text">
         <div className="extencion-description">
           <span className="extencion-description-name">Online service</span>
@@ -44,8 +44,8 @@ const AddOns = ({onChange, termChoosed, firstCheckMain, secondCheckMain, thirdCh
         <span className="extencion-price">{`${termChoosed ? '+$1/mo' : '+$10/yr'}`}</span>
         </div>
       </div>
-      <div className={`extencion ${secondCheckMain ? 'added' : ''}`}>
-        <input className="extencion-checkbox" type="checkbox" onChange={handleChangeStorage} checked={secondCheck}></input>
+      <div className={`extencion ${secondCheckMain ? 'added' : ''}`} onClick={handleChangeStorage} >
+        <input className="extencion-checkbox" type="checkbox" checked={secondCheck}></input>
         <div className="extencion-text">
         <div className="extencion-description">
           <span className="extencion-description-name">Larger storage</span>
@@ -56,8 +56,8 @@ const AddOns = ({onChange, termChoosed, firstCheckMain, secondCheckMain, thirdCh
         <span className="extencion-price">{`${termChoosed ? '+$1/mo' : '+$10/yr'}`}</span>
         </div>
       </div>
-      <div className={`extencion ${thirdCheckMain ? 'added' : ''}`}>
-        <input className="extencion-checkbox" type="checkbox" onChange={handleChangeCustomizable} checked={thirdCheck}></input>
+      <div className={`extencion ${thirdCheckMain ? 'added' : ''}`} onClick={handleChangeCustomizable}>
+        <input className="extencion-checkbox" type="checkbox" checked={thirdCheck}></input>
         <div className="extencion-text">
         <div className="extencion-description">
           <span className="extencion-description-name">
