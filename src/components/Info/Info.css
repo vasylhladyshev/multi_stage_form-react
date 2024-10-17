@@ -1,0 +1,71 @@
+.info {
+    color: hsl(228, 99%, 26%);
+}
+
+.title {
+    font-family: Ubuntu-Bold;
+    font-size: 32px;
+    margin-bottom: 4px;
+}
+
+.description {
+    font-size: 14px;
+    color: hsl(231, 11%, 63%);
+    margin-top: 0;
+    margin-bottom: 22px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.field-label {
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+
+.field-input {
+    padding: 10px 10px;
+    border-radius: 4px;
+    border: 1px solid hsl(231, 11%, 63%);
+}
+
+.error {
+    color: #FF0000;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.button-disabled-alarm {
+    margin-top: 35px;
+    color: #FF0000;
+    font-size: 14px;
+}
+
+@media screen and (max-width: 768px) {
+    .info {
+        padding: 30px 20px;
+        background-color: white;
+        margin: -90px auto 0 auto;
+        border-radius: 10px;
+        width: 80%;
+        box-shadow: 1px 3px 5px hsl(0, 0%, 24%);
+    }
+
+    .title {
+        font-size: 24px;    
+    }
+
+    .description {
+        line-height: 25px;
+        margin-bottom: 16px;
+        font-size: 12px;
+    }
+
+    .field {
+        margin-bottom: 8px;
+    }
+
+}

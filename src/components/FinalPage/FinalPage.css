@@ -1,0 +1,54 @@
+.final {
+    padding: 80px 20px 60px 20px;
+    color: hsl(228, 99%, 26%);
+}
+
+.icon-thank-you {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .final-title {
+    text-align: center;
+    font-size: 24px;
+    font-family: Ubuntu-bold;
+  }
+
+  .final-text {
+    color: hsl(231, 11%, 63%);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+
+@media screen and (max-width: 768px) {
+  .final {
+    padding: 80px 20px 60px 20px;
+    background-color: white;
+    margin: -90px auto 0 auto;
+    border-radius: 10px;
+   
+    width: 80%;
+    box-shadow: 1px 3px 5px hsl(0, 0%, 24%);
+  }
+
+  .icon-thank-you {
+    width: 50px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .final-title {
+    text-align: center;
+    font-size: 24px;
+    font-family: Ubuntu-bold;
+  }
+
+  .final-text {
+    color: hsl(231, 11%, 63%);
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.5;
+  }
+}
