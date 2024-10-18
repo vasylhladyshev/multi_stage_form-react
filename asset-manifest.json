@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/multi-stage-form_react/static/css/main.3c1faf02.css",
-    "main.js": "/multi-stage-form_react/static/js/main.daed0442.js",
-    "static/js/453.c48db9c1.chunk.js": "/multi-stage-form_react/static/js/453.c48db9c1.chunk.js",
-    "static/media/Ubuntu-Regular.ttf": "/multi-stage-form_react/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
-    "static/media/Ubuntu-Bold.ttf": "/multi-stage-form_react/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
-    "static/media/bg-sidebar-desktop.svg": "/multi-stage-form_react/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
-    "static/media/bg-sidebar-mobile.svg": "/multi-stage-form_react/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
-    "index.html": "/multi-stage-form_react/index.html",
-    "main.3c1faf02.css.map": "/multi-stage-form_react/static/css/main.3c1faf02.css.map",
-    "main.daed0442.js.map": "/multi-stage-form_react/static/js/main.daed0442.js.map",
-    "453.c48db9c1.chunk.js.map": "/multi-stage-form_react/static/js/453.c48db9c1.chunk.js.map"
+    "main.css": "/multi_stage_form-react/static/css/main.1bf2ac38.css",
+    "main.js": "/multi_stage_form-react/static/js/main.64579441.js",
+    "static/js/453.c48db9c1.chunk.js": "/multi_stage_form-react/static/js/453.c48db9c1.chunk.js",
+    "static/media/Ubuntu-Regular.ttf": "/multi_stage_form-react/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/multi_stage_form-react/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/bg-sidebar-desktop.svg": "/multi_stage_form-react/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
+    "static/media/bg-sidebar-mobile.svg": "/multi_stage_form-react/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
+    "index.html": "/multi_stage_form-react/index.html",
+    "main.1bf2ac38.css.map": "/multi_stage_form-react/static/css/main.1bf2ac38.css.map",
+    "main.64579441.js.map": "/multi_stage_form-react/static/js/main.64579441.js.map",
+    "453.c48db9c1.chunk.js.map": "/multi_stage_form-react/static/js/453.c48db9c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c1faf02.css",
-    "static/js/main.daed0442.js"
+    "static/css/main.1bf2ac38.css",
+    "static/js/main.64579441.js"
   ]
 }
